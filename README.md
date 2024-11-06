@@ -5,9 +5,9 @@ ___
 quiero tener acceso a una barra de navegación fluida e interactiva
 Para poder navegar fácilmente entre las diferentes secciones de la aplicación y encontrar rápidamente lo que necesito.**
 
-3. **Como turista,
+3. **Como dueño de un local,
 quiero poder registrarme en la plataforma
-Para acceder a los servicios personalizados y funcionalidades exclusivas para usuarios registrados.**
+Para poder registrar los servicios que ofrezco en la localidad.**
 ___
 ## 2-Historias Implementadas
 **Descripcion del proyecto:** El proyecto trata sobre una app movil autogestionable donde comerciantes locales puedan registrar el tipo de servicio que ofrecen (Alojamiento, Comida o Transporte). Cuando un turista ingresa a la app, puede ver diferentes zonas turísticas de la localidad y tambien puede generar cotizaciones personalizadas, el cual genera paquetes con distintos servicios registrados e la app para que así el turista no pierda el tiempo revisando los servicios uno por uno.
